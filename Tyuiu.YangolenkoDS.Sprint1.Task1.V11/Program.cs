@@ -17,7 +17,7 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task1.V11
             Console.Title = "Спринт #1 | Выполнил: Янголенко Д. С. | АСОиУб-23-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                         *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                                  *");
+            Console.WriteLine("* Тема: Организация ввода и вывода в консольных приложениях                         *");
             Console.WriteLine("* Задание #1                                                                        *");
             Console.WriteLine("* Вариант #11                                                                       *");
             Console.WriteLine("* Выполнил: Янголенко Данил Сергеевич | АСОиУб-23-1                                 *");
