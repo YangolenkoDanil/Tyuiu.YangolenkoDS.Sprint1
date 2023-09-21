@@ -12,7 +12,7 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task1.V11.Lib
     {
         public double Calculate(double x, double y)
         {
-            return 5 * x / (6 * y);
+            return 5 * x / (6 * y); //
         }
     }
 }
