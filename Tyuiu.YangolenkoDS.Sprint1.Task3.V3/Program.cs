@@ -17,7 +17,7 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task3.V3
             Console.Title = "Спринт #1 | Выполнил: Янголенко Д. С. | АСОиУб-23-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                         *");
-            Console.WriteLine("* Тема: Арифметические операторы в C#                                               *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                           *");
             Console.WriteLine("* Задание #3                                                                        *");
             Console.WriteLine("* Вариант #3                                                                        *");
             Console.WriteLine("* Выполнил: Янголенко Данил Сергеевич | АСОиУб-23-1                                 *");
