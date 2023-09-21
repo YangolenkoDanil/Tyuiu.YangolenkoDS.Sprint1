@@ -14,7 +14,7 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task2.V2.Lib
 
         public double ConvertAngleToRad(int value)
         {
-            return value * (pi / 180); //
+            return value * (pi / 180);
         }
     }
 }
