@@ -12,7 +12,7 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task3.V3.Lib
     {
         public double ParallelepipedVolume(double length, double width, double height)
         {
-            return length * width * height;
+            return length * width * height; //
         }
     }
 }
