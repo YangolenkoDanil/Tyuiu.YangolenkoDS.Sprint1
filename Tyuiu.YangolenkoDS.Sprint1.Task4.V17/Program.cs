@@ -42,7 +42,7 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task4.V17
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                        *");
             Console.WriteLine("*************************************************************************************");
 
-            Console.WriteLine(ds.Calculate(x, y));
+            Console.WriteLine(Math.Round(ds.Calculate(x, y),3));
             Console.ReadKey();
         }
     }
