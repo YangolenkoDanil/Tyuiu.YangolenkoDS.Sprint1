@@ -48,7 +48,7 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task3.V3
             Console.WriteLine($"Ширина(см) = {width}");
             Console.WriteLine($"Высота(см) = {height}");
             Console.WriteLine("Объем: " + ds.ParallelepipedVolume(length, width, height) + " см.куб");
-
+            //
             Console.ReadKey();
         }
     }
