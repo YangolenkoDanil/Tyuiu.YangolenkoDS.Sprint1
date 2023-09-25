@@ -13,9 +13,9 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task4.V17.Test
         {
             DataService ds = new DataService();
             double x = 110;
-            double y = 2;
+            double y = 10;
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(0.1, res);
+            Assert.AreEqual(0.129, Math.Round(res, 3));
         }
     }
 }
