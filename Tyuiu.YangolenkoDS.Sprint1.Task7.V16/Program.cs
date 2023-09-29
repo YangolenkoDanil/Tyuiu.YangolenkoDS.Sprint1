@@ -29,7 +29,11 @@ namespace Tyuiu.YangolenkoDS.Sprint1.Task7.V16
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                  *");
             Console.WriteLine("*************************************************************************************");
-
+            Console.WriteLine("*          ___      2       ______                                                  *");
+            Console.WriteLine("*         / 2   cosx       / 2                                                      *");
+            Console.WriteLine("* z = sinV x  + ____ - sinV x  - 1                                                  *");
+            Console.WriteLine("*                 3                                                                 *");
+            Console.WriteLine("*               3x                                                                  *");
             double x;
 
             Console.WriteLine("Введите значение переменной X:");
